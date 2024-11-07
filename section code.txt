@@ -1,0 +1,60 @@
+
+    <section id="skills" class="skills section light-background">
+
+
+<!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Skills</h2>
+        <p>Necessary skill earned during my undergraduate studies and thesis work</p>
+      </div><!-- End Section Title -->
+
+      <div class="skill-category">
+        <button class="collapsible">Engineering Software</button>
+        <div class="content">
+            <ul>
+                <li>VISSIM</li>
+                <li>SUMO</li>
+                <li>Etabs</li>
+                <li>SAP 2000</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="skill-category">
+        <button class="collapsible">Programming Skills</button>
+        <div class="content">
+            <ul>
+                <li>Python</li>
+                <li>MATLAB</li>
+                <li>C++</li>
+              
+                <li>Latex</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="skill-category">
+        <button class="collapsible">Expertise</button>
+        <div class="content">
+            <ul>
+                <li>Machine Learning</li>
+                <li>Data Analysis</li>
+                <li>Genetic Algorithm</li>
+                <li>PANDAS</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="skill-category">
+        <button class="collapsible">Language Skills</button>
+        <div class="content">
+            <ul>
+                <li>English <br> (Fluent)
+                </li>
+                
+                <li>Hindi </li>
+                <li>Bangla <br> (First Language)</li>
+
+            </ul>
+        </div>
+    </div>
