@@ -624,6 +624,7 @@ section,
 .about .content h2 {
   font-weight: 700;
   font-size: 24px;
+  
 }
 
 .about .content ul {
@@ -635,10 +636,20 @@ section,
   margin-bottom: 20px;
   display: flex;
   align-items: center;
+  
+}
+
+.about .two-columns {
+  columns: 2; /* Splits content into 2 columns */
+  -webkit-columns: 2; /* For Safari/older webkit browsers */
+  -moz-columns: 2; /* For older Firefox versions */
+  column-gap: 20px; /* Adds some space between columns */
+  list-style-position: inside; /* Ensures bullet points remain visible */
 }
 
 .about .content ul strong {
   margin-right: 10px;
+  
 }
 
 .about .content ul i {
